@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[](https://github.com/gauravmahto/gauravmahto/blob/master/cool.gif?raw=true)
+![Cool](https://github.com/gauravmahto/gauravmahto/blob/master/cool.gif?raw=true)
