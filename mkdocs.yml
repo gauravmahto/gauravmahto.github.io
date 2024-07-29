@@ -20,3 +20,5 @@ theme:
 
 nav:
   - Home: index.md
+  - AI Portfolio: gl-portfolio.md
+  - Info: info.md
