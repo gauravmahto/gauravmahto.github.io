@@ -1,19 +1,8 @@
-### Hi there 👋
-Check this one out. https://gauravmahto.github.io
+### Steps
 
-<!--
-**gauravmahto/gauravmahto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![Cool](https://github.com/gauravmahto/gauravmahto/blob/master/cool.gif?raw=true)
+1. Clone this repo
+2. Run `conda env create -f environment.yml` to create conda environment
+3. Run `conda activate portfolio_env` to activate conda environment
+4. Required packages are installed in `requirements.txt`
+5. Run `mkdocs serve` to test locally
+6. Run `mkdocs gh-deploy` to deploy to github pages

@@ -1,0 +1,22 @@
+site_name: Gaurav's Portfolio
+site_url: https://gauravmahto.github.io/
+site_author: Gaurav Mahto
+site_description: >-
+  Gaurav Mahto's personal website
+
+repo_name: Repo
+repo_url: https://github.com/gauravmahto/gauravmahto.github.io
+
+extra:
+  analytics:
+    provider: google
+    property: G-3HYNX4F54N
+
+theme:
+  name: material
+  palette:
+    primary: blue
+    accent: blue
+
+nav:
+  - Home: index.md
