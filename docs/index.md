@@ -18,7 +18,7 @@ A dynamic engineer with 9+ years of experience in software design, web developme
 Committed to continuous learning and staying at the forefront of technology trends. Specialized in full stack, with expertise in JavaScript, TypeScript, Node.js, Angular, Python, and artificial intelligence.
 
 - **Programming Languages**: JavaScript, TypeScript, Python
-- **Frameworks and Tools**: Node.js, Angular, React, NestJS, NextJS
+- **Frameworks and Tools**: ***Node.js, Angular, React, NestJS, NextJS, MongoDB***
 - **AI and ML**: Machine Learning, Deep Learning, CNN
 - **Other Skills**: Game Development, GDK Development, Automation
 
@@ -45,12 +45,9 @@ Committed to continuous learning and staying at the forefront of technology tren
 
 ## EDUCATION
 
-- **IIIT, Delhi** — PG Diploma in Artificial Intelligence
-  - October 2021 - January 2023
-- **CDAC-ACTS, Pune** — PG Diploma in Advanced Computing
-  - February 2014 - August 2014
-- **RGGI, Meerut** — Bachelor’s in Technology (CSE)
-  - 2012
+- **IIIT, Delhi** — PG Diploma in Artificial Intelligence ***[October 2021 - January 2023]***
+- **CDAC-ACTS, Pune** — PG Diploma in Advanced Computing ***[February 2014 - August 2014]***
+- **RGGI, Meerut** — Bachelor’s in Technology (CSE) ***[2012 Passout]***
 
 ## AWARDS
 
@@ -65,5 +62,5 @@ Committed to continuous learning and staying at the forefront of technology tren
 
 ## RESEARCH AND PUBLISHED PAPERS
 
-- Published Research Paper: "CNN Based Study of Improvised Food Image Classification" - [IEEE Xplore](https://ieeexplore.ieee.org/document/10099066)
-- Artificial Intelligence Portfolio: [AI portfolio](https://eportfolio.mygreatlearning.com/gaurav286)
+- Published Research Paper: ```CNN Based Study of Improvised Food Image Classification``` - [View my paper onIEEE Xplore](https://ieeexplore.ieee.org/document/10099066)
+- AI and ML based projects and portfolio: [View my portfolio and projects](https://eportfolio.mygreatlearning.com/gaurav286)
