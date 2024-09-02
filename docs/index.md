@@ -13,7 +13,7 @@
 
 ## SUMMARY AND SKILLS
 
-A dynamic engineer with 9+ years of experience in software design, web development, game design, GDK development, and integration. Seeking a challenging position as an engineering lead where I can use my skills and experience to deliver innovative solutions.
+A dynamic engineer with 10+ years of experience in software design, web development, game design, GDK development, and integration. Seeking a challenging position as an engineering lead where I can use my skills and experience to deliver innovative solutions.
 
 Committed to continuous learning and staying at the forefront of technology trends. Specialized in full stack, with expertise in JavaScript, TypeScript, Node.js, Angular, Python, and artificial intelligence.
 
