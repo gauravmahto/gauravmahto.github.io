@@ -204,7 +204,7 @@ ___
 
 Apr 2022
 
-#### Writing programs to store the power grid data in garph data structure
+#### Writing programs to store the power grid data in graph data structure
 
 ###### Course: Data Structures and Algorithms
 
@@ -214,11 +214,11 @@ In this project, a power grid system where data of connected houses with differe
 
 Graphs
 
-operations on adjacecny list graph
+operations on adjacency list graph
 
 house creation
 
-propogation creation
+propagation creation
 
 house removal.
 
