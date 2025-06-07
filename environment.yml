@@ -1,4 +1,4 @@
-name: /Users/gm105550/anaconda3
+name: portfolio_env
 channels:
   - defaults
 dependencies:
