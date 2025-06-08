@@ -26,6 +26,8 @@ jobs:
         with:
           python-version: '3.11'
           cache: 'pip'
+      - run: sudo apt-get update && sudo apt-get install -y libcurl4-openssl-dev
+        name: Install libcurl development package  # Added this step
       - uses: actions/configure-pages@v5
       - name: Install dependencies
         run: |
@@ -38,4 +40,3 @@ jobs:
           path: ./site
       - id: deployment
         uses: actions/deploy-pages@v4
-
