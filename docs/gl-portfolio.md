@@ -14,8 +14,6 @@ Used InceptionResNetV2, ResNet50, DenseNet169, WiSER architectures with advanced
 
 ---
 
-___
-
 Nov 2022
 
 #### "PART I: To design and build a CNN classifier capable of determining a flower’s species from a photo
