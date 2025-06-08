@@ -4,119 +4,119 @@
 
 ---
 
-## 🏆 Highlights
+## 🌟 Portfolio Highlights
 
-- **IEEE Best Research Presentation**
-- **Hands-on with Deep Learning, NLP, ML Pipelines, and Data Engineering**
-- **Projects spanning Computer Vision, NLP, Data Science, and Algorithms**
+- 🏅 **IEEE Best Research Presentation**
+- 🤖 Deep Learning, NLP, ML Pipelines, Data Engineering
+- 🧠 Computer Vision, NLP, Data Science, Algorithms
 
 ---
 
+## 📚 Featured Projects
+
 ### 📸 CNN Based Study of Improvised Food Image Classification *(Nov 2022)*
 
-**Course / Research:** AI Capstone Project — IEEE 2023  
-*Presented at the IEEE 13th Annual Computing and Communication Workshop — awarded Best Research Presentation.*
+AI Capstone Project — IEEE 2023  
+Best Research Presentation, IEEE 13th Annual Computing and Communication Workshop.
 
-- Utilized InceptionResNetV2, ResNet50, DenseNet169, WiSER architectures
-- Advanced data augmentation and background removal (U2Net)
-- [Published on IEEE Xplore](https://ieeexplore.ieee.org/document/10099066)
+- InceptionResNetV2, ResNet50, DenseNet169, WiSER architectures
+- Advanced data augmentation, background removal (U2Net)
+- [IEEE Xplore Publication](https://ieeexplore.ieee.org/document/10099066)
 
 ---
 
 ### 🌸 Flower Species Classification & Sarcasm Detection in Tweets *(Oct 2022)*
 
-**Course:** Deep Learning for AI
+Deep Learning for AI
 
-- **Part I:** Built a CNN classifier to identify flower species from images using transfer learning
-- **Part II:** Developed an NLP model for sarcasm detection in tweets
-- Gained experience in model tuning, evaluation, and real-world dataset handling
+- CNN classifier for flower species (transfer learning)
+- NLP model for sarcasm detection in tweets
+- Model tuning, evaluation, real-world datasets
 
 ---
 
 ### 📶 Signal Quality Prediction for Communication Equipment *(Sep 2022)*
 
-**Course:** Deep Learning for AI
+Deep Learning for AI
 
-- Designed and tuned neural networks to predict equipment signal quality
-- Focused on EDA, preprocessing, and model optimization
+- Neural networks for signal quality prediction
+- EDA, preprocessing, model optimization
 
 ---
 
 ### 💳 Bank Loan Defaulter Prediction *(Aug 2022)*
 
-**Course:** Advanced Machine Learning
+Advanced Machine Learning
 
-- Built ML pipelines for feature selection, handling imbalanced data, and hyperparameter tuning
-- Addressed real-world financial datasets and business impact
+- ML pipelines: feature selection, imbalanced data, hyperparameter tuning
+- Real-world financial datasets, business impact
 
 ---
 
 ### 📱 Google Store App Rating Prediction *(Jul 2022)*
 
-**Course:** Advanced Machine Learning
+Advanced Machine Learning
 
-- Predicted app ratings using supervised learning (Decision Trees, ensemble methods)
-- Extracted actionable insights for app developers
+- Supervised learning (Decision Trees, ensembles)
+- Actionable insights for app developers
 
 ---
 
 ### 🛒 E-commerce Customer Segmentation *(Jul 2022)*
 
-**Course:** Machine Learning
+Machine Learning
 
-- Clustered users and items for targeted marketing
-- Applied PCA and unsupervised learning for business insights
+- User/item clustering for marketing
+- PCA, unsupervised learning for business insights
 
 ---
 
 ### 📞 Telecom Customer Churn Prediction *(Jun 2022)*
 
-**Course:** Machine Learning
+Machine Learning
 
-- Developed classification models (logistic regression, KNN, Naive Bayes) to predict churn
-- Helped strategize customer retention
+- Classification models (logistic regression, KNN, Naive Bayes)
+- Customer retention strategy
 
 ---
 
 ### 🗃️ E-Commerce Reports with CQL *(Jun 2022)*
 
-**Course:** Databases - SQL and NoSQL
+Databases - SQL and NoSQL
 
-- Designed Cassandra schemas and wrote CQL statements for data analysis
+- Cassandra schemas, CQL for data analysis
 
 ---
 
 ### 🚌 Travego Travelers — SQL Project *(May 2022)*
 
-**Course:** Databases - SQL and NoSQL
+Databases - SQL and NoSQL
 
-- Created MySQL schemas and queries for bus travel data
+- MySQL schemas and queries for bus travel data
 
 ---
 
 ### 🗺️ Graph Algorithms: City Routes & Power Grids *(Apr 2022)*
 
-**Course:** Design and Analysis of Algorithms / Data Structures and Algorithms
+Design and Analysis of Algorithms / Data Structures and Algorithms
 
-- Implemented BFS/DFS for city navigation and power grid management
-- Used Python data structures for real-world graph problems
+- BFS/DFS for city navigation, power grid management
+- Python data structures for real-world graphs
 
 ---
 
 ### 🎵 Music Player System with Linked List *(Jan 2022)*
 
-**Course:** Data Structures and Algorithms
+Data Structures and Algorithms
 
-- Built a music player using OOP and linked list operations (sorting, shuffling, deletion)
+- OOP music player with linked list operations (sorting, shuffling, deletion)
 
 ---
 
 ### 📊 Retail Marketing EDA & Data Preprocessing *(Jan 2022)*
 
-**Course:** Programming with Python
+Programming with Python
 
-- Performed univariate/bivariate analysis, data cleaning, and visualization for marketing campaigns
+- Univariate/bivariate analysis, data cleaning, visualization for marketing
 
 ---
-
-*For more, visit my [website](https://gauravmahto.github.io/).*
