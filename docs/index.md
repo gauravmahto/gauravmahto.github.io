@@ -1,8 +1,9 @@
+
 # Gaurav
 
-**Full Stack Developer | Node.js, Typescript, and Javascript Specialist**
+**Principal Software Engineer | Full Stack | Cloud | AI/ML | Node.js, Java, React, Typescript**
 
-**Current role: Associate Principal Engineer**
+**Current role: Principal Software Engineer, Oracle India Development Center (IDC)**
 
 ## Contact Information
 
@@ -13,20 +14,30 @@
 
 ## SUMMARY AND SKILLS
 
-A dynamic engineer with 10+ years of experience in software design, web development, game design, GDK development, and integration. Seeking a challenging position as an engineering lead where I can use my skills and experience to deliver innovative solutions.
+A dynamic engineer with 11+ years of experience in software design, web development, game design, GDK development, and AI/ML research. Currently part of Oracle IDC team as Principal Software Engineer.
 
-Committed to continuous learning and staying at the forefront of technology trends. Specialized in full stack, with expertise in JavaScript, TypeScript, Node.js, Angular, Python, and artificial intelligence.
+Committed to continuous learning and staying at the forefront of technology trends. Specialized in full stack development and cloud-native solutions, with expertise in JavaScript, TypeScript, Node.js, Java, React, Angular, Python, AI/ML, and cloud platforms.
 
-- **Programming Languages**: JavaScript, TypeScript, Python
-- **Frameworks and Tools**: ***Node.js, Angular, React, NestJS, NextJS, MongoDB***
+- **Programming Languages**: JavaScript, TypeScript, Python, Java
+- **Frameworks and Tools**: ***Node.js, Angular, React, NestJS, NextJS, MongoDB, Spring***
+- **Cloud Platforms**: AWS, GCP, Oracle Cloud
 - **AI and ML**: Machine Learning, Deep Learning, CNN
+- **DevOps & CI/CD**: GitLab CI/CD, Jenkins, Kubernetes, Helm, Argo, Flux, Docker
 - **Other Skills**: Game Development, GDK Development, Automation
 
 ## EXPERIENCE
 
+### Oracle India Development Center — Principal Software Engineer
+**April 2025 - Present**
+
+- Member of the Exadata engineering team at Oracle IDC.
+- Focus on building high-performance, scalable cloud-based solutions.
+- Contributing to platform modernization, CI/CD pipelines, and cloud-native architecture.
+- Collaborating with global teams to design and implement enterprise-grade software products.
+
 ### Aristocrat Technologies Pvt Ltd, Gurugram — Associate Principal Engineer
 
-**November 2019 - Present**
+**November 2019 - February 2025**
 
 - Advocated and managed the tech stack, leading the development and maintenance of the game development kit.
 - **Reduced game delivery time by 40% through process automation across various jurisdictions.**
@@ -62,5 +73,5 @@ Committed to continuous learning and staying at the forefront of technology tren
 
 ## RESEARCH AND PUBLISHED PAPERS
 
-- Published Research Paper: ```CNN Based Study of Improvised Food Image Classification``` - [View my paper onIEEE Xplore](https://ieeexplore.ieee.org/document/10099066)
+- Published Research Paper: ```CNN Based Study of Improvised Food Image Classification``` - [View my paper on IEEE Xplore](https://ieeexplore.ieee.org/document/10099066)
 - AI and ML based projects and portfolio: [View my portfolio and projects](https://eportfolio.mygreatlearning.com/gaurav286)

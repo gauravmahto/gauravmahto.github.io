@@ -1,3 +1,18 @@
+
+# Project Portfolio — Academic & Learning Projects
+
+**Note:** This portfolio reflects academic, experimental, and prototype projects completed during advanced learning programs (AI/ML, Deep Learning, Advanced ML, Data Structures & Algorithms, etc.). For professional production experience, please refer to the main resume (index.md).
+
+#### CNN Based Study of Improvised Food Image Classification
+###### Course / Research: AI Capstone Project — IEEE 2023
+
+Presented at the IEEE 13th Annual Computing and Communication Workshop — awarded Best Research Presentation.
+Used InceptionResNetV2, ResNet50, DenseNet169, WiSER architectures with advanced data augmentation and background removal (U2Net).
+
+[Published on IEEE Xplore](https://ieeexplore.ieee.org/document/10099066)
+
+---
+
 ___
 
 Nov 2022
