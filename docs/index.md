@@ -10,7 +10,7 @@
 - [Gurugram, Haryana](https://maps.app.goo.gl/Bbtaxv1gboCBJieX7)
 - [LinkedIn Profile](https://www.linkedin.com/in/gaurav-mahto/)
 - [Github Profile](https://github.com/gauravmahto)
-- [Send me an email](mailto:gauravg227@gmail.com)
+- [Send me an email](mailto:gauravg227+portfolio@gmail.com)
 
 ## SUMMARY AND SKILLS
 
@@ -28,9 +28,10 @@ Committed to continuous learning and staying at the forefront of technology tren
 ## EXPERIENCE
 
 ### Oracle India Development Center — Principal Software Engineer
+
 **April 2025 - Present**
 
-- Member of the Exadata engineering team at Oracle IDC.
+- Leading the development of cloud-native applications and services for Oracle's enterprise solutions.
 - Focus on building high-performance, scalable cloud-based solutions.
 - Contributing to platform modernization, CI/CD pipelines, and cloud-native architecture.
 - Collaborating with global teams to design and implement enterprise-grade software products.
