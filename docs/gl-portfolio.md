@@ -1,7 +1,7 @@
 
 # Project Portfolio — Academic & Learning Projects
 
-**Note:** This portfolio reflects academic, experimental, and prototype projects completed during advanced learning programs (AI/ML, Deep Learning, Advanced ML, Data Structures & Algorithms, etc.). For professional production experience, please refer to the main resume (index.md).
+**Note:** This portfolio reflects academic, experimental, and prototype projects completed during advanced learning programs (AI/ML, Deep Learning, Advanced ML, Data Structures & Algorithms, etc.). For professional production experience, please refer to the [main resume](https://gauravmahto.github.io/).
 
 #### CNN Based Study of Improvised Food Image Classification
 
