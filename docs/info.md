@@ -1,6 +1,5 @@
-
 ### Gaurav
-Principal Software Engineer | Full Stack | Cloud | AI/ML | Node.js, Java, Angular, React, Typescript
+Principal Software Engineer | Full Stack | Cloud | AI/ML | Node.js, Java, Angular, React, TypeScript
 
 Current role: Principal Software Engineer, Oracle IDC
 
