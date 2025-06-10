@@ -139,7 +139,7 @@ pyzmq==25.1.2
 qtawesome==1.2.2
 qtconsole==5.5.1
 qtpy==2.4.1
-requests==2.32.2
+requests==2.32.4
 rich==13.3.5
 rope==1.12.0
 ruamel.yaml==0.17.21
