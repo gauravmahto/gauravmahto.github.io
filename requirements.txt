@@ -185,7 +185,7 @@ watchdog==4.0.1
 wcwidth==0.2.5
 websocket-client==1.8.0
 werkzeug==3.0.3
-wheel==0.43.0
+wheel==0.46.2
 widgetsnbextension==3.6.6
 wrapt==1.14.1
 xarray==2023.6.0
