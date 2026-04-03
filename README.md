@@ -26,18 +26,30 @@
 ## ✨ Quick Start
 
 1. **Clone this repo**
-2. *(Optional, for conda users)* `conda env create -f environment.yml`
-3. *(Optional, for conda users)* `conda activate portfolio_env`
-4. *(Recommended)* Create and activate a Python virtual environment:
-   - `python3 -m venv venv`
-   - `source venv/bin/activate`
-5. **Install requirements:**
-   - `pip install -r requirements.txt`
-6. **Run locally:**
-   - `mkdocs serve`
-     *Preview at [http://127.0.0.1:8000/](http://127.0.0.1:8000/)*
-7. **Deploy:**
-   - `mkdocs gh-deploy`
+2. *(Recommended)* Create and activate a Python virtual environment:
+   - **On Windows:**
+     ```cmd
+     python -m venv venv
+     venv\Scripts\activate
+     ```
+   - **On macOS/Linux:**
+     ```bash
+     python3 -m venv venv
+     source venv/bin/activate
+     ```
+3. **Install requirements:**
+   ```
+   pip install -r requirements.txt
+   ```
+4. **Run locally:**
+   ```
+   mkdocs serve
+   ```
+   *Preview at [http://127.0.0.1:8000/](http://127.0.0.1:8000/)*
+5. **Deploy:**
+   ```
+   mkdocs gh-deploy
+   ```
 
 ---
 

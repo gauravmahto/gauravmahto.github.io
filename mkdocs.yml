@@ -18,6 +18,9 @@ theme:
     primary: blue
     accent: blue
 
+extra_javascript:
+  - javascripts/years-exp.js
+
 nav:
   - Home: index.md
   - AI Portfolio: gl-portfolio.md
