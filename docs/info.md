@@ -3,9 +3,17 @@
 **Principal Software Engineer**  
 Full Stack | Cloud | AI/ML | Node.js, Java, Angular, React, TypeScript
 
-> 🚀 Passionate about building scalable, intelligent systems and leading high-impact teams. I thrive at the intersection of technology, creativity, and leadership.
+> **Engineering Leader | Cloud Architect | AI/ML Practitioner**
 
-**Current Role:** Principal Software Engineer, Oracle IDC
+**Current Role:** Principal Engineer, Oracle IDC
+
+Principal Software Engineer and technology leader with <span id="yearsExp" data-start="2014-09-01">11+</span> years of experience building scalable, intelligent systems that drive real business impact. My expertise spans full-stack development, cloud-native platforms, AI/ML research, and game platform engineering.
+
+At Oracle IDC, I lead the design and delivery of enterprise-grade cloud applications — working across JavaScript, TypeScript, Python, Java, Node.js, Angular, React, NestJS, Spring Boot, AWS, GCP, and Oracle Cloud — collaborating with global teams to modernise platforms and accelerate delivery. I bring deep DevOps expertise (Kubernetes, Argo CD, Flux, Terraform, Ansible) and have reduced enterprise deployment timelines from weeks to under 24 hours through GitOps-based automation.
+
+Previously at Aristocrat Technologies, I architected award-winning Game Development Kits, automated delivery pipelines cutting time-to-market by 40%, and led cross-functional engineering teams. My AI/ML work is backed by a PG Diploma in Artificial Intelligence from IIIT Delhi.
+
+My work has been recognised with multiple awards including Best Research Presentation at IEEE and Best Employee of the Month across roles. Outside of work, I build Raspberry Pi automation projects, explore emerging tech, and enjoy sharing knowledge with the community.
 
 ![Cool](https://github.com/gauravmahto/gauravmahto/blob/master/cool.gif?raw=true)
 
@@ -39,4 +47,4 @@ Full Stack | Cloud | AI/ML | Node.js, Java, Angular, React, TypeScript
 
 ---
 
-*Let's build something amazing together!*
+For job opportunities, please visit my [portfolio and resume](https://gauravmahto.github.io).

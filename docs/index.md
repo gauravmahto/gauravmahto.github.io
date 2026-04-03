@@ -7,7 +7,7 @@
 
 > **Engineering Leader | Cloud Architect | AI/ML Practitioner**
 >
-> Principal Software Engineer with <span id="yearsExp" data-start="2014-09-01">11+</span> years of experience delivering scalable full-stack products, cloud-native platforms, and AI/ML-driven solutions. Proven track record of leading cross-functional teams, accelerating delivery through automation, and modernizing enterprise systems for performance and reliability.
+> Principal Software Engineer and technology leader with <span id="yearsExp" data-start="2014-09-01">11+</span> years of experience building scalable, intelligent systems that drive real business impact — spanning full-stack development, cloud-native platforms, AI/ML research, and game platform engineering.
 
 ---
 
