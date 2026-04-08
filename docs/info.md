@@ -24,7 +24,7 @@ My work has been recognised with multiple awards including Best Research Present
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gauravmahto-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gaurav-mahto/)
 [![GitHub](https://img.shields.io/badge/GitHub-gauravmahto-blue?style=flat-square&logo=github)](https://github.com/gauravmahto)
 [![Website](https://img.shields.io/badge/Website-gauravmahto.github.io-blue?style=flat-square&logo=github)](https://gauravmahto.github.io/)
-[![Email](https://img.shields.io/badge/Email-gauravmahtowork+portfolio%2Bportfolio%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:gauravmahtowork+portfolio@gmail.com)
+[![Email](https://img.shields.io/badge/Email-gauravmahtowork%2Bportfolio%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:gauravmahtowork+portfolio@gmail.com)
 
 ---
 
