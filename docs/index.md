@@ -1,113 +1,229 @@
-# Gaurav Mahto — Principal Software Engineer | Cloud Platforms | AI/ML | Full-Stack Engineering
+<div class="page-shell">
 
-[![Website](https://img.shields.io/badge/Website-gauravmahto.github.io-blue?style=flat-square&logo=github)](https://gauravmahto.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-gauravmahto-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gaurav-mahto/)
-[![GitHub](https://img.shields.io/badge/GitHub-gauravmahto-blue?style=flat-square&logo=github)](https://github.com/gauravmahto)
-[![Email](https://img.shields.io/badge/Email-gauravmahtowork%2Bportfolio%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:gauravmahtowork+portfolio@gmail.com)
+<section class="hero-shell reveal">
+<div class="hero-grid">
+<div class="hero-copy">
+<div class="hero-kicker">Principal Engineer · Full-Stack · Node.js · Angular · React · Python</div>
+<h1 class="hero-title">Full-stack engineering that helps product teams ship faster.</h1>
+<p class="hero-lead">Gaurav Mahto is a principal software engineer with <span data-start="2014-09-01">11+</span> years of experience building modern applications with <strong>Node.js, Angular, React, and Python</strong>, backed by delivery and DevOps depth when scale matters.</p>
+<p class="hero-subtext">Frontend, backend, internal tools, and the workflows that keep releases calm.</p>
+<div class="cta-row">
+<a class="cta-button cta-secondary" href="https://drive.google.com/uc?export=download&id=1a6jb9lPSmKpXnQuvEI-4qlsnvdeqyVLs" target="_blank" rel="noopener">Download official resume</a>
+<a class="cta-button cta-primary" href="mailto:gauravmahtowork+portfolio@gmail.com">Start a conversation</a>
+<a class="cta-button cta-secondary" href="https://www.linkedin.com/in/gaurav-mahto/">LinkedIn</a>
+<a class="cta-button cta-secondary" href="https://github.com/gauravmahto">GitHub</a>
+</div>
+<div class="pill-row" style="margin-top: 0.9rem;">
+<span class="pill">Based in Gurugram, India</span>
+<span class="pill">Full-stack engineering leader</span>
+<span class="pill">Open to high-impact engineering conversations</span>
+</div>
+</div>
+<aside class="hero-panel">
+<div>
+<span class="eyebrow">At A Glance</span>
+<h3>Modern applications with strong delivery discipline</h3>
+<p>Shipping product-focused systems across UI, APIs, and developer workflows with emphasis on clarity, speed, and maintainability.</p>
+</div>
+<ul class="panel-list">
+<li>
+<strong>Core stack</strong>
+<span>Node.js, Angular, React, Python</span>
+</li>
+<li>
+<strong>Secondary stack</strong>
+<span>Java and Go for service, platform, and integration work</span>
+</li>
+<li>
+<strong>Supporting depth</strong>
+<span>DevOps, Terraform, Ansible, Helm, Argo, GitLab CI, Jenkins, and GitHub Actions</span>
+</li>
+</ul>
+</aside>
+</div>
+<div class="metric-grid">
+<div class="metric-card">
+<span class="metric-value" data-count="11" data-suffix="+">11+</span>
+<span class="metric-label">Years building and modernizing production systems</span>
+</div>
+<div class="metric-card">
+<span class="metric-value" data-prefix="&lt;" data-count="1" data-suffix=" day">1 day</span>
+<span class="metric-label">Deployment turnaround after GitOps automation at Oracle</span>
+</div>
+<div class="metric-card">
+<span class="metric-value" data-count="40" data-suffix="%">40%</span>
+<span class="metric-label">Faster game creation enabled through GDK improvements</span>
+</div>
+<div class="metric-card">
+<span class="metric-value" data-count="8">8</span>
+<span class="metric-label">Engineers mentored across frontend, backend, and platform delivery</span>
+</div>
+</div>
+</section>
 
-> **Engineering Leader | Cloud Architect | AI/ML Practitioner**
->
-> Principal Software Engineer and technology leader with <span id="yearsExp" data-start="2014-09-01">11+</span> years of experience building scalable, intelligent systems that drive real business impact — spanning full-stack development, cloud-native platforms, AI/ML research, and game platform engineering.
+<section class="section-card reveal">
+<div class="section-head">
+<div>
+<div class="section-label">What Gaurav Brings</div>
+<h2>Execution that starts with full-stack product engineering</h2>
+</div>
+<p class="section-intro">The site now leads with application engineering depth first: building polished interfaces, dependable services, and practical systems with Node.js, Angular, React, and Python, with DevOps as an enabling layer rather than the headline.</p>
+</div>
+<div class="capability-grid">
+<article class="feature-card">
+<span class="eyebrow">Full-Stack Engineering</span>
+<h3>Frontend to backend ownership</h3>
+<p>Designs and delivers complete product flows across UI, APIs, business logic, and integration layers with a strong bias toward maintainable, production-ready systems.</p>
+<div class="pill-row">
+<span class="pill">Full-Stack</span>
+<span class="pill">TypeScript</span>
+<span class="pill">APIs</span>
+</div>
+</article>
+<article class="feature-card">
+<span class="eyebrow">Core Technologies</span>
+<h3>Node.js, Angular, React, and Python</h3>
+<p>Strong hands-on depth in the stack that shows up most consistently across the profile, from web apps and internal tools to service layers and developer-facing platforms.</p>
+<div class="pill-row">
+<span class="pill">Node.js</span>
+<span class="pill">Angular</span>
+<span class="pill">React</span>
+<span class="pill">Python</span>
+</div>
+</article>
+<article class="feature-card">
+<span class="eyebrow">DevOps Support</span>
+<h3>Delivery systems that strengthen product teams</h3>
+<p>Brings DevOps, Kubernetes, Terraform, Ansible, Helm, Argo, GitLab CI, Jenkins, and GitHub Actions experience as a force multiplier around the core application stack.</p>
+<div class="pill-row">
+<span class="pill">CI/CD</span>
+<span class="pill">Kubernetes</span>
+<span class="pill">Terraform</span>
+<span class="pill">Helm</span>
+</div>
+</article>
+</div>
+</section>
 
----
+<section class="section-card reveal">
+<div class="section-head">
+<div>
+<div class="section-label">Career Story</div>
+<h2>Three chapters, one throughline: making complex systems easier to build and operate</h2>
+</div>
+</div>
+<div class="timeline-grid">
+<article class="timeline-card">
+<div class="timeline-period">2025 · Present</div>
+<h3>Oracle India Development Center</h3>
+<p>Driving cloud-native automation for Oracle telecom and monetization platforms with Java-based services, Helm packaging, Terraform and Ansible automation, Argo-driven workflows, GitLab pipelines, and repeatable multi-cluster delivery across OCI environments.</p>
+<div class="pill-row">
+<span class="pill">Java</span>
+<span class="pill">GitLab CI</span>
+<span class="pill">Terraform</span>
+<span class="pill">Helm</span>
+<span class="pill">Ansible</span>
+</div>
+</article>
+<article class="timeline-card">
+<div class="timeline-period">2019 · 2025</div>
+<h3>Aristocrat Technologies</h3>
+<p>Led engineering work across the Game Development Kit, Java and NestJS service layers, onboarding tools, Jenkins and GitHub Actions automation, and game integrations that helped studios move faster while improving system quality.</p>
+<div class="pill-row">
+<span class="pill">Java</span>
+<span class="pill">NestJS</span>
+<span class="pill">Jenkins</span>
+<span class="pill">GitHub Actions</span>
+<span class="pill">Gaming</span>
+</div>
+</article>
+<article class="timeline-card">
+<div class="timeline-period">2014 · 2019</div>
+<h3>Vratam Consultants</h3>
+<p>Built a custom framework that grew into a shared development kit while shipping end-to-end business features across Node.js, Angular, PHP, .NET Core, C++, and Jenkins-backed delivery workflows.</p>
+<div class="pill-row">
+<span class="pill">PHP</span>
+<span class="pill">.NET Core</span>
+<span class="pill">C++</span>
+<span class="pill">Jenkins</span>
+<span class="pill">Node.js</span>
+</div>
+</article>
+</div>
+</section>
 
-## 📍 Contact
+<section class="section-card reveal">
+<div class="spotlight-grid">
+<div class="story-copy">
+<div class="section-label">Selected Wins</div>
+<h2>Impact that reads clearly in both numbers and systems thinking</h2>
+<p>Some engineers specialize narrowly. Gaurav’s profile stands out because the impact shows up across very different environments: enterprise cloud modernization, game platform acceleration, internal productivity tools, and AI research.</p>
+<div class="pill-row">
+<span class="pill">5 to 6 weeks to under 24 hours</span>
+<span class="pill">60% delivery efficiency increase</span>
+<span class="pill">IEEE best presentation recognition</span>
+</div>
+</div>
+<div class="quote-card">
+<blockquote>Best work usually happens where platform quality, product usability, and automation maturity reinforce each other.</blockquote>
+<p class="muted">That theme shows up repeatedly across the profile: improve the system, improve the team, and the business outcome follows.</p>
+</div>
+</div>
+</section>
 
-- 📍 [Gurugram, Haryana](https://maps.app.goo.gl/Bbtaxv1gboCBJieX7)
+<section class="section-card reveal">
+<div class="section-head">
+<div>
+<div class="section-label">Core Stack</div>
+<h2>Main stack first, platform depth second</h2>
+</div>
+<p class="section-intro">Ordered to reflect the emphasis you asked for: full-stack product engineering first, then the supporting platform and DevOps layer.</p>
+</div>
+<div class="stack-list">
+<span class="pill">Full-Stack Engineering</span>
+<span class="pill">Node.js</span>
+<span class="pill">Angular</span>
+<span class="pill">React</span>
+<span class="pill">Python</span>
+<span class="pill">Secondary Stack</span>
+<span class="pill">Java</span>
+<span class="pill">Go</span>
+<span class="pill">JavaScript</span>
+<span class="pill">TypeScript</span>
+<span class="pill">Next.js</span>
+<span class="pill">NestJS</span>
+<span class="pill">Spring Boot</span>
+<span class="pill">DevOps</span>
+<span class="pill">Kubernetes</span>
+<span class="pill">Docker</span>
+<span class="pill">Terraform</span>
+<span class="pill">Ansible</span>
+<span class="pill">Helm</span>
+<span class="pill">Argo CD</span>
+<span class="pill">Argo Workflows</span>
+<span class="pill">Flux</span>
+<span class="pill">GitLab CI</span>
+<span class="pill">Jenkins</span>
+<span class="pill">GitHub Actions</span>
+<span class="pill">AWS</span>
+<span class="pill">GCP</span>
+<span class="pill">Oracle Cloud</span>
+</div>
+</section>
 
----
+<section class="contact-strip reveal">
+<div class="contact-grid">
+<div>
+<div class="section-label">Get In Touch</div>
+<h2>Looking for a senior engineer who can bridge product, platform, and scale?</h2>
+<p class="section-intro">Reach out for principal engineering roles, staff-level platform work, AI-enabled product builds, or architecture conversations around delivery modernization.</p>
+</div>
+<div class="cta-row">
+<a class="cta-button cta-secondary" href="https://drive.google.com/uc?export=download&id=1a6jb9lPSmKpXnQuvEI-4qlsnvdeqyVLs" target="_blank" rel="noopener">Download official resume</a>
+<a class="cta-button cta-primary" href="mailto:gauravmahtowork+portfolio@gmail.com">Email Gaurav</a>
+<a class="cta-button cta-secondary" href="gl-portfolio/">See selected work</a>
+</div>
+</div>
+</section>
 
-## 🛠️ Tech Stack & Skills
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-- **Languages:** JavaScript, TypeScript, Python, Java, Go
-- **Frontend:** Angular, React, Next.js, PixiJS, Django
-- **Backend:** Node.js, NestJS, Spring Boot, Gin
-- **Databases:** MongoDB, PostgreSQL, MySQL, DynamoDB, Cassandra
-- **Cloud — AWS:** Amplify, S3 + CloudFront, Elastic Beanstalk, EC2, Lambda, API Gateway, Cognito, DynamoDB
-- **Cloud — GCP & OCI:** GCP (full-stack), Oracle Cloud Infrastructure, Oracle Visual Builder
-- **Infrastructure & DevOps:** Kubernetes, Helm, Docker, Terraform, Ansible, Argo CD, Flux, CI/CD Pipelines
-- **AI/ML:** Machine Learning, Deep Learning, CNN, AI/ML Research
-- **Practices:** GitOps, Infrastructure as Code, Agile, Cross-Functional Leadership, Process Automation
-
----
-
-## 💼 Experience
-
-### Oracle India Development Center, Gurugram — Principal Engineer
-
-Apr 2025 - Present
-
-- **Cloud Native Automation Platform (CNAP):** Contributing to the architecture and evolution of Oracle's Cloud Native Service Platform, standardising deployment, lifecycle management, and observability across Telecom DBE and Monetisation solutions.
-- **End-to-End Deployment Automation — 5–6 Weeks → 1 Day:** Designed and implemented fully automated GitOps-based deployment pipelines using Kubernetes, Argo Workflows, Flux CD, Ansible, and Terraform, reducing DBE product deployment timelines from 5–6 weeks to less than 24 hours.
-- **Infrastructure as Code & GitOps:** Established declarative infrastructure provisioning and release management workflows across OCI environments using Terraform and GitOps principles, enabling reproducible multi-cluster deployments.
-- **Lifecycle Management Automation:** Engineered automated workflows covering environment provisioning, release deployment, patchset upgrades, rollbacks, and termination.
-- **Multi-Cluster & Cloud Deployment Architecture:** Enabled standardised cloud-native deployments across OCI-based Kubernetes clusters (control-plane and service-provider), ensuring consistency across environments.
-- **Observability & Service Assurance:** Integrated synthetic monitoring, service health dashboards, and OpenSearch-based observability into deployment workflows to support proactive diagnostics and SLA reporting.
-- **Platform Standardisation:** Contributed to the unification of application stack components (registry, Git repos, identity, secrets, storage, monitoring), reducing duplication across product teams.
-- **Engineering Leadership:** Designed Helm-based packaging strategies, built internal automation tooling, and standardised OCI object storage artifact flows.
-
-### Aristocrat Technologies Pvt Ltd, Gurugram — Associate Principal Engineer
-
-Nov 2019 - Feb 2025
-
-- **GDK Innovation:** Spearheaded the development and enhancement of the Game Development Kit, enabling studios to streamline workflows and **reduce game creation time by over 40%**.
-- **Automation Excellence:** Automated critical delivery processes, **increasing game delivery efficiency by more than 60%**.
-- **Team Leadership & Mentorship:** Led and mentored a team of 8 engineers across Java, Node.js, Python, NestJS, Angular, React, Next.js, and PixiJS.
-- **Global Market Integration:** Directed game integrations across diverse global markets, ensuring regulatory compliance and operational efficiency.
-- **Internal Tools:** Conceived and led development of *AskBolt* (in-house Q&A platform) and *WatchBolt* (centralised training video library), transforming onboarding and knowledge sharing.
-- **Game Design:** Designed innovative slot games incorporating social and real-world currency mechanics, driving player engagement.
-
-### Vratam Consultants Pvt Ltd, Pune — Senior Software Engineer
-
-Sep 2014 - Oct 2019
-
-- **Custom Framework Engineering:** Designed and built a bespoke web development framework using Node.js and Angular that became the foundation for the Unified Development Kit, later adopted across multiple teams.
-- **Full-Stack Delivery:** Delivered end-to-end solutions encompassing telephony integration, reCAPTCHA security, SSO, and JWT-based authentication.
-- **UI/UX Collaboration:** Partnered with design teams to build reusable, scalable front-end components, improving development consistency and velocity.
-- **Performance Optimisation:** Improved application performance through backend tuning, query optimisation, and code-path refinement.
-- **Operational Support:** Provided support for message operations, voice transcription, and application configuration to ensure reliability.
-
----
-
-## 🎓 Education
-
-- **IIIT, Delhi** — PG Diploma in Artificial Intelligence (2022)
-- **CDAC-ACTS, Pune** — PG Diploma in Advanced Computing (2014)
-- **RGGI, Meerut** — B.Tech in Computer Science & Engineering (2012)
-
----
-
-## 🏅 Awards & Recognition
-
-- **Employee of the Month** — Multiple awards across current and previous roles
-- **Best Presentation Award** — 2023 IEEE 13th Annual Computing and Communication Workshop
-- **Best AI Capstone Project Award of the Year**
-- **Outstanding Final Year Project Award** — B.Tech
-
----
-
-## 📚 Research & Publications
-
-- Presented **"CNN Based Study of Improvised Food Image Classification"** at the 2023 IEEE 13th Annual Computing and Communication Workshop — recognised as **Best Research Presentation**.
-- [Published on IEEE Xplore](https://ieeexplore.ieee.org/document/10099066)
-- [AI/ML Portfolio — Great Learning](https://eportfolio.mygreatlearning.com/gaurav286)
-
----
+</div>

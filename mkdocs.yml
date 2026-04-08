@@ -1,8 +1,8 @@
-site_name: Gaurav's Portfolio
+site_name: Gaurav Mahto
 site_url: https://gauravmahto.github.io/
 site_author: Gaurav Mahto
 site_description: >-
-  Gaurav Mahto's personal website
+  Principal engineer portfolio spanning cloud platforms, AI/ML, and full-stack engineering
 
 repo_name: My Github page
 repo_url: https://github.com/gauravmahto
@@ -14,14 +14,30 @@ extra:
 
 theme:
   name: material
+  language: en
+  font: false
+  features:
+    - navigation.tabs
+    - navigation.tracking
+    - search.highlight
   palette:
-    primary: blue
-    accent: blue
+    primary: blue grey
+    accent: amber
+
+extra_css:
+  - stylesheets/extra.css
 
 extra_javascript:
   - javascripts/years-exp.js
+  - javascripts/site.js
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - tables
+  - admonition
 
 nav:
   - Home: index.md
-  - AI Portfolio: gl-portfolio.md
-  - Info: info.md
+  - Selected Work: gl-portfolio.md
+  - Profile: info.md
