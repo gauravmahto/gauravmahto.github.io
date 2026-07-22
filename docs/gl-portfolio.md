@@ -3,53 +3,152 @@
 <section class="hero-shell reveal">
 <div class="hero-grid">
 <div class="hero-copy">
-<div class="hero-kicker">Selected Work · AI Portfolio · Research and Prototypes</div>
-<h1 class="hero-title">Applied machine learning projects with a clear bias toward practical outcomes.</h1>
-<p class="hero-lead">This collection highlights the academic and experimental side of Gaurav’s profile: deep learning, NLP, classical machine learning, data pipelines, algorithms, and research-led problem solving.</p>
-<p class="hero-subtext">While the homepage focuses on production engineering impact, this page shows the analytical range behind it, including the IEEE-recognized food image classification research.</p>
+<div class="hero-kicker">Selected Work · Platforms · Developer Experience · Applied AI</div>
+<h1 class="hero-title">Architecture and engineering systems measured by what they enable.</h1>
+<p class="hero-lead">The projects below show how I approach principal-level engineering: understand the constraint, simplify the system, create reusable capabilities, and measure the improvement for product and engineering teams.</p>
+<p class="hero-subtext">The work spans enterprise cloud automation, game-development platforms, retail analytics, internal developer products, and IEEE-recognized AI research.</p>
 <div class="cta-row">
-<a class="cta-button cta-primary" href="https://ieeexplore.ieee.org/document/10099066">View IEEE publication</a>
-<a class="cta-button cta-secondary" href="https://eportfolio.mygreatlearning.com/gaurav286">Great Learning portfolio</a>
+<a class="cta-button cta-primary" href="#platform-case-studies">View platform case studies</a>
+<a class="cta-button cta-secondary" href="#applied-ai">Explore applied AI</a>
 </div>
 </div>
 <aside class="hero-panel">
 <div>
 <span class="eyebrow">Portfolio Themes</span>
-<h3>Computer vision, NLP, predictive modeling, and data systems</h3>
-<p>The projects show strong fundamentals in experimentation, model evaluation, preprocessing, and business framing rather than one-off model demos.</p>
+<h3>Build once, enable many teams</h3>
+<p>The common thread is reducing repeated complexity through clear architecture, self-service workflows, reusable platforms, and strong engineering standards.</p>
 </div>
 <div class="pill-row">
-<span class="pill">Deep Learning</span>
-<span class="pill">NLP</span>
-<span class="pill">Computer Vision</span>
-<span class="pill">Algorithms</span>
+<span class="pill">Software Architecture</span>
+<span class="pill">Platform Engineering</span>
+<span class="pill">Developer Productivity</span>
+<span class="pill">Applied AI</span>
 </div>
 </aside>
 </div>
 </section>
 
-<section class="section-card reveal">
+<section class="section-card reveal" id="platform-case-studies">
 <div class="section-head">
 <div>
-<div class="section-label">Featured Research</div>
-<h2>The standout project in the portfolio</h2>
+<div class="section-label">Platform Case Studies</div>
+<h2>Selected enterprise engineering outcomes</h2>
 </div>
+<p class="section-intro">These summaries use non-confidential information and focus on the problem, engineering response, and supported outcomes—with metrics included where they are available.</p>
+</div>
+<div class="project-grid project-grid--enterprise">
+<article class="project-card">
+<span class="eyebrow">Oracle · Cloud Platform</span>
+<h3>From multi-week deployment to self-service delivery</h3>
+<p><strong>Challenge:</strong> Product deployments required 5–6 weeks of coordination and repeated manual work across environments.</p>
+<p><strong>Engineering response:</strong> Architected developer-centric platform capabilities for packaging, deployment, lifecycle management, integration, and observability. Standardized the workflow through reusable automation and self-service tooling.</p>
+<p><strong>Outcome:</strong> Reduced deployment turnaround to under 24 hours while improving consistency across product teams.</p>
+<div class="pill-row">
+<span class="pill">Cloud-Native</span>
+<span class="pill">Lifecycle Automation</span>
+<span class="pill">Observability</span>
+<span class="pill">Developer Experience</span>
+</div>
+</article>
+<article class="project-card">
+<span class="eyebrow">Aristocrat Gaming · GDK</span>
+<h3>A shared platform for faster game development</h3>
+<p><strong>Challenge:</strong> Game teams needed a faster, more consistent path from idea to compliant production implementation.</p>
+<p><strong>Engineering response:</strong> Led the architecture and development of a full-stack Game Development Kit, reusable component libraries, engineering standards, and automated delivery workflows. Guided a core team of eight.</p>
+<p><strong>Outcome:</strong> Improved game-creation speed by 40%+, supported more than 60 engineers, and increased delivery efficiency by 60%+.</p>
+<div class="pill-row">
+<span class="pill">Platform Architecture</span>
+<span class="pill">Angular</span>
+<span class="pill">React</span>
+<span class="pill">NestJS</span>
+<span class="pill">CI/CD</span>
+</div>
+</article>
+<article class="project-card">
+<span class="eyebrow">Aristocrat Gaming · Internal Products</span>
+<h3>Knowledge systems built around developer needs</h3>
+<p><strong>Challenge:</strong> Engineering knowledge and training material needed to be easier to discover and reuse across teams.</p>
+<p><strong>Engineering response:</strong> Conceived and delivered AskBolt, a developer Q&amp;A platform, and WatchBolt, a centralized training-video platform, with end-to-end ownership across product flows and services.</p>
+<p><strong>Outcome:</strong> Created durable internal channels for developer enablement and knowledge sharing alongside the core platform.</p>
+<div class="pill-row">
+<span class="pill">Product Engineering</span>
+<span class="pill">Node.js</span>
+<span class="pill">Angular</span>
+<span class="pill">React</span>
+</div>
+</article>
+<article class="project-card">
+<span class="eyebrow">Vratam Consultants · Enterprise Applications</span>
+<h3>A shared development foundation across a diverse technology stack</h3>
+<p><strong>Challenge:</strong> Enterprise products spanning web, service, desktop, integration, testing, and deployment layers needed more consistent engineering patterns and repeatable delivery workflows.</p>
+<p><strong>Engineering response:</strong> Built a custom framework that evolved into a shared development kit while delivering applications across Node.js, Angular, AngularJS, PHP, C++, C#/.NET, and SOAP integrations. Established automated testing, packaging, and Jenkins-based CI/CD workflows.</p>
+<p><strong>Outcome:</strong> Created reusable foundations that improved software quality, release repeatability, and developer productivity across the application lifecycle.</p>
+<div class="pill-row">
+<span class="pill">Full-Stack Engineering</span>
+<span class="pill">Shared Frameworks</span>
+<span class="pill">Automated Testing</span>
+<span class="pill">Jenkins</span>
+<span class="pill">Packaging &amp; Deployment</span>
+</div>
+</article>
+</div>
+</section>
+
+<section class="section-card reveal">
+<div class="spotlight-grid">
+<div class="story-copy">
+<div class="section-label">Current Chapter</div>
+<h2>Price &amp; Promotion platforms at McKinsey</h2>
+<p>I currently provide technical leadership for enterprise software supporting advanced retail analytics and commercial decision-making. My focus includes platform evolution, architecture, engineering standards, mentoring, and alignment across product, analytics, business, and engineering stakeholders.</p>
+<p>Because this is a new and ongoing role, I am intentionally describing the scope without attaching outcome claims before they can be substantiated.</p>
+<div class="pill-row">
+<span class="pill">Retail Analytics</span>
+<span class="pill">Technical Strategy</span>
+<span class="pill">Platform Evolution</span>
+<span class="pill">Engineering Leadership</span>
+</div>
+</div>
+<div class="quote-card">
+<blockquote>Credible case studies separate proven outcomes from work that is still in progress.</blockquote>
+<p class="muted">This portfolio will add measurable McKinsey outcomes only when they are established and appropriate to share.</p>
+</div>
+</div>
+</section>
+
+<section class="section-card reveal" id="applied-ai">
+<div class="section-head">
+<div>
+<div class="section-label">Applied AI And Research</div>
+<h2>Research depth behind the engineering profile</h2>
+</div>
+<p class="section-intro">AI is a complementary capability: useful when it solves a real problem, supported by sound evaluation and production engineering.</p>
 </div>
 <div class="spotlight-grid">
 <article class="project-card">
-<span class="eyebrow">IEEE 2023</span>
+<span class="eyebrow">IEEE 2023 · Featured Research</span>
 <h3>CNN Based Study of Improvised Food Image Classification</h3>
-<p>Capstone research project exploring food image classification through multiple deep learning architectures, strong augmentation strategy, and preprocessing improvements such as background removal with U2Net.</p>
+<p>Capstone research comparing multiple deep-learning architectures and preprocessing strategies for food-image classification, including augmentation and background removal with U2Net.</p>
+<p>The work received Best Research Presentation recognition at the 2023 IEEE Annual Computing and Communication Workshop.</p>
 <div class="pill-row">
+<span class="pill">Computer Vision</span>
+<span class="pill">Deep Learning</span>
+<span class="pill">Model Evaluation</span>
+<span class="pill">Research Communication</span>
 <span class="pill">InceptionResNetV2</span>
 <span class="pill">ResNet50</span>
 <span class="pill">DenseNet169</span>
 <span class="pill">WiSER</span>
 </div>
+<div class="cta-row">
+<a class="cta-button cta-primary" href="https://ieeexplore.ieee.org/document/10099066">View IEEE publication</a>
+</div>
 </article>
 <div class="quote-card">
-<blockquote>Recognized as Best Research Presentation at the 2023 IEEE Annual Computing and Communication Workshop.</blockquote>
-<p class="muted">It is a strong proof point that the profile is not only implementation-heavy but also research-capable and presentation-strong.</p>
+<blockquote>Applied AI is strongest when experimentation, evaluation, and software delivery are treated as one engineering system.</blockquote>
+<p class="muted">My AI background includes computer vision, NLP, predictive modeling, segmentation, and data systems.</p>
+<div class="cta-row">
+<a class="cta-button cta-secondary" href="https://eportfolio.mygreatlearning.com/gaurav286">View academic AI portfolio</a>
+</div>
 </div>
 </div>
 </section>
@@ -60,7 +159,7 @@
 <div class="section-label">Project Collection</div>
 <h2>Representative work across learning tracks</h2>
 </div>
-<p class="section-intro">Grouped by the type of problem each project tackled, making the portfolio easier to scan than a long chronological list.</p>
+<p class="section-intro">The individual projects remain separate so their problems, methods, and technical range are visible rather than compressed into broad categories.</p>
 </div>
 <div class="project-grid">
 <article class="project-card">
@@ -160,13 +259,14 @@
 <div class="contact-grid">
 <div>
 <div class="section-label">More Context</div>
-<h2>Production engineering impact lives on the main profile page.</h2>
-<p class="section-intro">If you want the professional story, platform work, leadership highlights, and current role at Oracle, the homepage ties those pieces together.</p>
+<h2>Looking for the complete professional story?</h2>
+<p class="section-intro">The profile page connects these case studies to my career progression, working style, education, and current focus.</p>
 </div>
 <div class="cta-row">
-<a class="cta-button cta-primary" href="../">Return home</a>
-<a class="cta-button cta-secondary" href="../info/">Read profile</a>
-<a class="cta-button cta-secondary" href="https://drive.google.com/uc?export=download&id=1a6jb9lPSmKpXnQuvEI-4qlsnvdeqyVLs" target="_blank" rel="noopener">Download official resume</a>
+<a class="cta-button cta-primary" href="../info/">Read my profile</a>
+<a class="cta-button cta-secondary" href="../">Return home</a>
+<a class="cta-button cta-secondary" href="https://drive.google.com/uc?export=download&amp;id=1a6jb9lPSmKpXnQuvEI-4qlsnvdeqyVLs" target="_blank" rel="noopener">Download resume</a>
+<a class="cta-button cta-secondary" href="mailto:gauravmahtowork+portfolio@gmail.com">Email me</a>
 </div>
 </div>
 </section>

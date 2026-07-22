@@ -2,9 +2,10 @@ site_name: Gaurav Mahto
 site_url: https://gauravmahto.github.io/
 site_author: Gaurav Mahto
 site_description: >-
-  Principal engineer portfolio spanning cloud platforms, AI/ML, and full-stack engineering
+  Principal Engineer portfolio spanning software architecture, distributed systems,
+  cloud-native platforms, engineering leadership, and applied AI
 
-repo_name: My Github page
+repo_name: Gaurav on GitHub
 repo_url: https://github.com/gauravmahto
 
 extra:
@@ -15,6 +16,7 @@ extra:
 theme:
   name: material
   language: en
+  favicon: assets/favicon.svg
   font: false
   features:
     - navigation.tabs
@@ -28,7 +30,6 @@ extra_css:
   - stylesheets/extra.css
 
 extra_javascript:
-  - javascripts/years-exp.js
   - javascripts/site.js
 
 markdown_extensions:

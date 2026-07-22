@@ -552,6 +552,14 @@ body {
   grid-template-columns: repeat(3, minmax(0, 1fr));
 }
 
+.timeline-grid--career {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+
+.project-grid--enterprise {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
 .feature-card,
 .profile-card,
 .project-card,
@@ -678,6 +686,14 @@ body {
   .timeline-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
+
+  .timeline-grid--career {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .project-grid--enterprise {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
 }
 
 @media screen and (min-width: 76.25em) {
@@ -733,6 +749,26 @@ body {
 }
 
 @media screen and (max-width: 59.9844em) {
+  .md-nav--primary > .md-nav__title > .md-nav__button.md-logo {
+    display: none;
+  }
+
+  [data-md-toggle="search"]:checked ~ .md-header {
+    -webkit-backdrop-filter: none;
+    backdrop-filter: none;
+    background: rgba(255, 250, 243, 0.98);
+  }
+
+  [data-md-toggle="search"]:checked ~ .md-header .md-search__inner {
+    height: 100dvh;
+  }
+
+  .reveal {
+    opacity: 1;
+    transform: none;
+    transition: none;
+  }
+
   .md-typeset h1 {
     font-size: clamp(2.2rem, 10vw, 3.4rem);
   }
@@ -752,6 +788,14 @@ body {
   .profile-grid,
   .project-grid,
   .timeline-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .timeline-grid--career {
+    grid-template-columns: 1fr;
+  }
+
+  .project-grid--enterprise {
     grid-template-columns: 1fr;
   }
 
